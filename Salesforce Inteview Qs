@@ -1,0 +1,36 @@
+Salesforce Interview:
+
+First Round:
+
+1. Tell me about yourself
+2. Talk about a time when you were in a discussion with different stakeholders and there was conflict between 2 parties and you resolved the conflict
+3. Talk about a time when you had to take up a different role that you are not prepared for, how did u manage the situation?What preparations you have taken?
+4. Talk about most challenging project u worked on
+
+Second Round:
+Prompt:
+Implementation Recovery Strategy
+Scenario Brief: Prepare to outline your approach to engaging with a customer who has already begun their Service Cloud implementation but has stalled due to technical and adoption hurdles and now requires expert intervention.
+
+ A customer attempted a self-implementation of Service Cloud to manage their technical support wing. It has been 4 months, the budget is exhausted, and the implementation is deemed "unusable" by the front line. The VP of Support is frustrated. She has a line of "Hiring Requests" on her desk and is 30 days away from pulling the plug on Salesforce to fund more headcount.
+
+What are we looking for:
+Your approach to understanding and resolving the technical issues
+How would you figure out what went wrong
+How will you earn the trust of this customer (VP, Admin, users) who at this point are defensive and convince them to move forward with a pilot
+
+Agentforce Questions:
+1. What is difference between Hybrid search and vector search in Data Cloud?
+2. Can we deploy Agentforce Empoyee Agent to Channel?
+3.Can we deploy Service agent to my own Website?
+4. What is difference between Agentic AI and Predictive AI?
+5. How can we use prompt tempplates as an independent entity without Agent?
+6. What is Zero shot prompting?
+7. What is Agent API and we can use mulesoft for that?
+8. How mulesoft can be used for A2A communication?
+9. Explain Agentforce implementation in your projects?
+10. Challenging situation in project?
+11. what is BYOM and how it can be used?
+12. Explain how to use LWC with Agent?
+13. What are retrievers and search index?
+14. How can we parse unstructured document without data cloud?

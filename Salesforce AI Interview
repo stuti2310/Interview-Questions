@@ -1,0 +1,7 @@
+Tell me about yourself
+How do you configure an agent end to end
+How do you choose the LLM Model in Data cloud
+How does semantic search and syntatic search work in the background
+How to design a system where I get the case description and from the description I need to fetch the correct Case type and sub type
+I have Participant object and Participant Team object similar to case and case team Object. How do u grant access to each other
+How do u ensure Agent testing is covering huge testing scenarios as user prompt might be anything
